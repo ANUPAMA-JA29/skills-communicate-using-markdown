@@ -9,8 +9,11 @@ var="hello world!";
 ```javascript
 "hellomarkdown";
 ```
-
-
+- [ ] start
+- [ ] step 1 create pull requests
+- [ ] step 2 add image
+- [ ] step 3 add code
+- [ ] All done
 
 
 
